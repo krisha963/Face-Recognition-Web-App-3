@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 132, 255);
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_members,#result_object_name{
+    color: white;
+    font-size: 20px;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
